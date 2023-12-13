@@ -13,10 +13,7 @@ namespace Reisedaurem_zum_Mond_Aufgabe
             InitializeComponent();
         }
 
-        public void InTagenradioButton_CheckedChanged(object sender, EventArgs e)
-        {
 
-        }
 
         private void InStundenradioButton_CheckedChanged(object sender, EventArgs e)
         {
